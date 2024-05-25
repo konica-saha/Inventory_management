@@ -18,7 +18,7 @@
 
 ### Login Credential
 
-Email: avilash@test.com,
+Email: das@gmail.com,
 Password: 12345678.
 
 
